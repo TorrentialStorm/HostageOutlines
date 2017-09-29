@@ -3,7 +3,8 @@
 	"description" : "Applies a coloured contour on civilian hostages.",
 	"author" : "TorrentialStorm",
 	"contact" : "https://github.com/TorrentialStorm/HostageOutlines",
-	"version" : "1",
+	"version" : "2",
+	"blt_version" : 2,
 	"hooks" : [
 		{
 			"hook_id" : "lib/units/civilians/logics/civilianlogicsurrender",
